@@ -9,4 +9,8 @@ Tensorflow can help us learn some details of deep learning, and Keras is easy to
 ----  
 
 ### 2017.5.8  
-Hongli Ni has acquisited a preliminary understanding of Python and is able to develop simple project with Python.  
+Hongli Ni has acquisited a preliminary understanding of Python and is able to develop simple project with Python.   
+### 2017.5.11
+I start to read the tutorial of tensorflow. I learn several new concepts: tensor, cross-entropy and some algorithms. I am excited, because the tutorial clarifies the approach to develope machine vision in my mind (although just a little).   
+The tutorial introduces a program that can distinguish hand-written numbers at the begining. The code is simple and clear: at first, define several vectors representing certain objects or concepts. At second, use the softmax regression model.thi At last, use the training data to reduce the cross-entropy, which indicates the cost of the model.  
+Emm.. I think I should manage to improve my English writing skills.  
