@@ -18,3 +18,6 @@ By Hongli
 ### 2017.5.12  
 Today when I skim through the answers below the topic Tensorflow in zhihu, I meet a suggestion that keras is a better choice for researchers who want to build projects quickly and do not care much about the basic algorithm. I remember that the first program in tensorflow tutorial consists of a lot of mathematical algorithms. I think it is not necessary to acquisite all these algorithms, besides, I am not very interested in them.   
 So I decide to change our plan. We learn to use keras first, and try to achieve basic function as quickly as possible.   
+### 2017.5.15
+Tensorflow & Keras environment configuration done.  
+By Holly
