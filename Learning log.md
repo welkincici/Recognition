@@ -21,3 +21,9 @@ So I decide to change our plan. We learn to use keras first, and try to achieve 
 ### 2017.5.15
 Tensorflow & Keras environment configuration done.  
 By Holly
+
+
+### 2017.6.6
+Great work! You have got big advances. 
+Which operation system do you use, windows or linux? Linux seems to be friendly for deep learning.
+By ricky
