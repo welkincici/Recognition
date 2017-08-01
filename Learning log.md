@@ -27,3 +27,11 @@ By Holly
 Great work! You have got big advances. 
 Which operation system do you use, windows or linux? Linux seems to be friendly for deep learning.
 By ricky
+
+### 2017.8.1   
+Resume updating!   
+Get started with tensorflow. Try to get familier with basic components of tensorflow and understand their working process. Following are some important knowledge nodes.   
+The most fundamental concepts of tensorflow are tensor and computational graph. The central unit of data in TensorFlow is the tensor, and a computational graph is a series of TensorFlow operations arranged into a graph of nodes.   
+A TensorFlow Core program can be seen as consisting of two discrete sections:    
+1. Building the computational graph.   
+2. Running the computational graph.   
