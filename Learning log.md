@@ -35,3 +35,9 @@ The most fundamental concepts of tensorflow are tensor and computational graph. 
 A TensorFlow Core program can be seen as consisting of two discrete sections:    
 1. Building the computational graph.   
 2. Running the computational graph.   
+
+### 2017.8.3  
+Learn how to write the simplist machine learning program : Linear Regression.   
+In conclusion, a machine learning consists of two part:   
+1. Find symbolic derivatives
+2. Change values of variables to minimize( or maximize, in short, to make these number idealize) symbolic derivatives according training data.  
