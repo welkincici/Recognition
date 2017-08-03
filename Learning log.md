@@ -28,6 +28,8 @@ Great work! You have got big advances.
 Which operation system do you use, windows or linux? Linux seems to be friendly for deep learning.
 By ricky
 
+----   
+
 ### 2017.8.1   
 Resume updating!   
 Get started with tensorflow. Try to get familier with basic components of tensorflow and understand their working process. Following are some important knowledge nodes.   
@@ -41,3 +43,4 @@ Learn how to write the simplist machine learning program : Linear Regression.
 In conclusion, a machine learning consists of two parts:   
 1. Find symbolic derivatives
 2. Change values of variables to minimize( or maximize, in short, to make these number idealize) symbolic derivatives according training data.  
+Begin learning MNIST   
