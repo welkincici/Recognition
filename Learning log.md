@@ -42,5 +42,6 @@ A TensorFlow Core program can be seen as consisting of two discrete sections:
 Learn how to write the simplist machine learning program : Linear Regression.   
 In conclusion, a machine learning consists of two parts:   
 1. Find symbolic derivatives
-2. Change values of variables to minimize( or maximize, in short, to make these number idealize) symbolic derivatives according training data.    
+2. Change values of variables to minimize( or maximize, in short, to make these number idealize) symbolic derivatives according training data.        
+   
 Begin learning MNIST   
