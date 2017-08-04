@@ -45,3 +45,10 @@ In conclusion, a machine learning consists of two parts:
 2. Change values of variables to minimize( or maximize, in short, to make these number idealize) symbolic derivatives according training data.        
    
 Begin learning MNIST   
+
+### 2017.8.4  
+Finish MNIST for beginners    
+A nice function to determine the loss of a model is called "cross-entropy."
+MNIST is the "Hello World" in machine learning. It just a beginning.   
+Begin learning MNIST for Experts   
+
