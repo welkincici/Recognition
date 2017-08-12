@@ -50,5 +50,11 @@ Begin learning MNIST
 Finish MNIST for beginners    
 A nice function to determine the loss of a model is called "cross-entropy."
 MNIST is the "Hello World" in machine learning. It just a beginning.   
-Begin learning MNIST for Experts   
+Begin learning MNIST for Experts    
 
+### 2017.8.12   
+Lacking of knowledge of CNN makes the learning process somewhat difficult.   
+So turn to learn something about CNN. Following are reference materials:   
+Wikipedia: Convolutional neural network https://en.wikipedia.org/wiki/Convolutional_neural_network#cite_note-6   
+Tensorflow: A Guide to TF Layers: Building a Convolutional Neural Network https://www.tensorflow.org/tutorials/layers   
+Tensorflow: Convolutional Neural Networks https://www.tensorflow.org/tutorials/deep_cnn   
