@@ -58,3 +58,13 @@ So turn to learn something about CNN. Following are reference materials:
 Wikipedia: Convolutional neural network https://en.wikipedia.org/wiki/Convolutional_neural_network#cite_note-6   
 Tensorflow: A Guide to TF Layers: Building a Convolutional Neural Network https://www.tensorflow.org/tutorials/layers   
 Tensorflow: Convolutional Neural Networks https://www.tensorflow.org/tutorials/deep_cnn   
+
+### 2017.8.18   
+Now let's divide our problem into three parts:    
+1. Construct the dataset, and feed it to the model   
+2. Design the CNN   
+3. Save the training result   
+
+The second part is too difficult for us to complete by ourselves, so we decide to build our model on the base of some successful models, for example: VGG, and train it using our dataset.     
+Reference Materials:     
+The Keras Blog: https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html (yes, it's Keras Blog, I haven't decide whether to use Keras or Tensorflow yet. I afraid that Keras will be too slow to use in the future product, but it indeed much easier to use than Tensorflow.)     
