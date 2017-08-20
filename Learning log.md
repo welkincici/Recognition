@@ -68,3 +68,11 @@ Now let's divide our problem into three parts:
 The second part is too difficult for us to complete by ourselves, so we decide to build our model on the base of some successful models, for example: VGG, and train it using our dataset.     
 Reference Materials:     
 The Keras Blog: https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html (yes, it's Keras Blog, I haven't decide whether to use Keras or Tensorflow yet. I afraid that Keras will be too slow to use in the future product, but it indeed much easier to use than Tensorflow.)     
+
+------
+
+### 2017.8.20
+A fantastic material to understand CNN: http://cs231n.github.io/convolutional-networks/   
+First try!   
+The accuracy arrives 90% for one epoch, I think it is a good result.    
+But there are more tests to be done. Our dataset is too small.
