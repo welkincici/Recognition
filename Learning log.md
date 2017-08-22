@@ -76,3 +76,6 @@ A fantastic material to understand CNN: http://cs231n.github.io/convolutional-ne
 First try!   
 The accuracy arrives 90% for one epoch, I think it is a good result.    
 But there are more tests to be done. Our dataset is too small.
+
+### 2017.8.21
+The expense of running the VGG16 net is too high, and we turn back to use simple net built by ourselves. Afterall, our goal is pretty easy, so the simple net is probably enough.
