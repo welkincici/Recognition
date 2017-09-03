@@ -79,3 +79,7 @@ But there are more tests to be done. Our dataset is too small.
 
 ### 2017.8.22
 The expense of running the VGG16 net is too high, and we turn back to use simple net built by ourselves. Afterall, our goal is pretty easy, so the simple net is probably enough.
+
+### 2017.9.2
+Improve the accuracy by expand pictures from 150*150 to 384*384   
+We will add more classes in the following days   
