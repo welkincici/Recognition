@@ -91,7 +91,7 @@ The validation accuracy of the model is very poor after adding the third class. 
 Our target of the first stage is to bulid a classifier of ten classes whose accuacy is beyond 90%. The further target is visualizing the output of every layer and speed up the model.   
 More reference(learning) materials:   
 Keras documentation https://keras.io/   
-The world in CNN's eye https://keras-cn.readthedocs.io/en/latest/blog/cnn_see_world/
+The world in CNN's eye https://keras-cn.readthedocs.io/en/latest/blog/cnn_see_world/   
 Zhihu: You need these 14 design mode to improve your CNN https://zhuanlan.zhihu.com/p/26403420   
 Tensorflow playground http://playground.tensorflow.org/   
 CS 20SI: Tensorflow for Deep Learning Research: http://web.stanford.edu/class/cs20si/index.html
