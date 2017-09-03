@@ -81,5 +81,17 @@ But there are more tests to be done. Our dataset is too small.
 The expense of running the VGG16 net is too high, and we turn back to use simple net built by ourselves. Afterall, our goal is pretty easy, so the simple net is probably enough.
 
 ### 2017.9.2
-Improve the accuracy by expand pictures from 150*150 to 384*384   
-We will add more classes in the following days   
+Improve the accuracy by expand pictures from 150×150 to 384×384   
+We will add more classes in the following days     
+
+------
+
+### 2017.9.3   
+The validation accuracy of the model is very poor after adding the third class. We should find approaches to advance our model.    
+Our target of the first stage is to bulid a classifier of ten classes whose accuacy is beyond 90%. The further target is visualizing the output of every layer and speed up the model.   
+More reference(learning) materials:   
+Keras documentation https://keras.io/   
+The world in CNN's eye https://keras-cn.readthedocs.io/en/latest/blog/cnn_see_world/
+Zhihu: You need these 14 design mode to improve your CNN https://zhuanlan.zhihu.com/p/26403420   
+Tensorflow playground http://playground.tensorflow.org/   
+CS 20SI: Tensorflow for Deep Learning Research: http://web.stanford.edu/class/cs20si/index.html
