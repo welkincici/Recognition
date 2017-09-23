@@ -94,4 +94,8 @@ Keras documentation https://keras.io/
 The world in CNN's eye https://keras-cn.readthedocs.io/en/latest/blog/cnn_see_world/   
 Zhihu: You need these 14 design mode to improve your CNN https://zhuanlan.zhihu.com/p/26403420   
 Tensorflow playground http://playground.tensorflow.org/   
-CS 20SI: Tensorflow for Deep Learning Research: http://web.stanford.edu/class/cs20si/index.html
+CS 20SI: Tensorflow for Deep Learning Research: http://web.stanford.edu/class/cs20si/index.html   
+
+### 2017.9.23   
+Sorry to come back after such a long period of time. I have difficulty in dealing with over-fitting. I tried several method to solve the problem like earlystopping function, add GaussianNoise and expand dataset but they didn't work.    
+I think I know too little about the CNN, which make the work of adjusting parameters so difficult and without direction. So I decide to learn CS231N, the stanford university course, to acquisite more knowledge and skills.    
