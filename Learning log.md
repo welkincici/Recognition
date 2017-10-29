@@ -99,3 +99,9 @@ CS 20SI: Tensorflow for Deep Learning Research: http://web.stanford.edu/class/cs
 ### 2017.9.23   
 Sorry to come back after such a long period of time. I have difficulty in dealing with over-fitting. I tried several method to solve the problem like earlystopping function, add GaussianNoise and expand dataset but they didn't work.    
 I think I know too little about the CNN, which make the work of adjusting parameters so difficult and without direction. So I decide to learn CS231N, the stanford university course, to acquisite more knowledge and skills.    
+
+### 2017.10.29   
+I have finish CS231N and have build a success net in the base of Mobilenet. The accuracy of ten classes classification is 85%, which still can be improved a lot.    
+Mobilenet is developed by Google. It has far less parameters and calculation cost comparing to other nets like VGG16 with a little lose in accuracy so that is likely to be applied in mobile devices.
+I am going to enter next stage : detectation.
+Paper of Mobilenet :https://arxiv.org/pdf/1704.04861.pdf
