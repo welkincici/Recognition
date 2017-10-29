@@ -79,3 +79,29 @@ But there are more tests to be done. Our dataset is too small.
 
 ### 2017.8.22
 The expense of running the VGG16 net is too high, and we turn back to use simple net built by ourselves. Afterall, our goal is pretty easy, so the simple net is probably enough.
+
+### 2017.9.2
+Improve the accuracy by expand pictures from 150×150 to 384×384   
+We will add more classes in the following days     
+
+------
+
+### 2017.9.3   
+The validation accuracy of the model is very poor after adding the third class. We should find approaches to advance our model.    
+Our target of the first stage is to bulid a classifier of ten classes whose accuacy is beyond 90%. The further target is visualizing the output of every layer and speed up the model.   
+More reference(learning) materials:   
+Keras documentation https://keras.io/   
+The world in CNN's eye https://keras-cn.readthedocs.io/en/latest/blog/cnn_see_world/   
+Zhihu: You need these 14 design mode to improve your CNN https://zhuanlan.zhihu.com/p/26403420   
+Tensorflow playground http://playground.tensorflow.org/   
+CS 20SI: Tensorflow for Deep Learning Research: http://web.stanford.edu/class/cs20si/index.html   
+
+### 2017.9.23   
+Sorry to come back after such a long period of time. I have difficulty in dealing with over-fitting. I tried several method to solve the problem like earlystopping function, add GaussianNoise and expand dataset but they didn't work.    
+I think I know too little about the CNN, which make the work of adjusting parameters so difficult and without direction. So I decide to learn CS231N, the stanford university course, to acquisite more knowledge and skills.    
+
+### 2017.10.29   
+I have finish CS231N and have build a success net in the base of Mobilenet. The accuracy of ten classes classification is 85%, which still can be improved a lot.    
+Mobilenet is developed by Google. It has far less parameters and calculation cost comparing to other nets like VGG16 with a little lose in accuracy so that is likely to be applied in mobile devices.
+I am going to enter next stage : detectation.
+Paper of Mobilenet :https://arxiv.org/pdf/1704.04861.pdf
